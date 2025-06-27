@@ -1,0 +1,1 @@
+Well i have created a backend hotel management app which allows user and hotels to register and then rate them and all things. business logic is kept simple however security aspect(jwt) over this microservice based architecture is heavily focused. 
